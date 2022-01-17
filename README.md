@@ -44,3 +44,7 @@ et passer à la salle suivante.
 
 
 A la fin d'un donjon ou quand le joueur meurt, ce dernier peut décider d'arrêter de jouer.
+
+
+
+Modélisation : pour ce projet, nous utilisons des designs patterns tels que formalisés dans le livre du GoF (Gang of Four) : Design Patterns – Elements of Reusable Object-Oriented Software.
